@@ -5,4 +5,4 @@ def key_for_min_value(name_hash)
   temp = name_hash[0][1]
   # name_hash.each do |key, value|
   temp
-end
+end  key_for_min_value
